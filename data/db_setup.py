@@ -43,7 +43,6 @@ def populate_tables():
 
 
 if __name__ == '__main__':
-    # create_movies_table()
-    # create_movie_genre_table()
-    # populate_tables()
-    pass
+    create_movies_table()
+    create_movie_genre_table()
+    populate_tables()
