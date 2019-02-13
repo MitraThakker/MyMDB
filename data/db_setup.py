@@ -1,6 +1,6 @@
 import json
 
-from src.common.db_ import SQLiteDBConnection
+from ..src.common.db_ import SQLiteDBConnection
 
 
 def create_movies_table():
